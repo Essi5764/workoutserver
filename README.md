@@ -2,4 +2,4 @@
 
 Endpoint with verb "POST".
 
-![Postman](images/pregister.jpg)
+![Postman](images/pregister.jpg) ![sql](images/sregister.jpg)
